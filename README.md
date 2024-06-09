@@ -67,7 +67,7 @@ The tournament is divided into two stages:
     ```
 
 ## Database Structure
-
+![strike_score db diagram](https://i.postimg.cc/g2yRJDgj/Strike-Score-dbdiag.png)
 
 
 ## Contribution
