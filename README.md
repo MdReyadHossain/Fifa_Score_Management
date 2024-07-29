@@ -1,4 +1,5 @@
 
+
 # Strike Score
 
 Strike Score is an ASP .NET Core MVC application designed to manage and track soccer tournament scores like FIFA. This system facilitates the organization and administration of tournaments by providing distinct functionalities for different user roles: Admin, Moderator, and User.
@@ -67,7 +68,7 @@ The tournament is divided into two stages:
     ```
 
 ## Database Structure
-![strike_score db diagram](https://i.postimg.cc/g2yRJDgj/Strike-Score-dbdiag.png)
+![strike_score db diagram](https://i.postimg.cc/zXFf4hrx/DB-Strike-Score.png)
 
 
 ## Contribution
